@@ -21,6 +21,6 @@ The points are increased regarding the tennis game rules.
 If a player wins, you can press the button that will replace the player's buttons to play a new game.
 
 
-Some integration tests have been done.
+Some unit tests have been done.
 You can run all of them clicking on the Play sign on the class name level.
 
